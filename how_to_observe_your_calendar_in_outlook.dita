@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_observe_your_calendar_in_outlook">
+    <title>How to observe your calendar and your scheduled meetings  in Outlook.</title>
+    <shortdesc>In this task we will learn how to observe  our calendar and our scheduled meetings
+        in Outlook.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_svw_4rq_xpb">
+            <p>You need to have installed Outlook on your machine.</p>
+        </prereq>
+        <context>
+            <p>This task can help you  to observe your scheduled meetings through your calendar.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Open Microsoft Outlook.</cmd>
+            </step>
+            <step>
+                <cmd>Press the calendar icon.</cmd>
+            </step>
+            <step>
+                <cmd>Observe your calendar and your scheduled meetings for the week.</cmd>
+            </step>
+        </steps>
+        <result id="result_inb_dcq_5pb">
+            <p><image href="../Calendar%20option.png" id="image_qzt_qwr_xpb"/></p>
+            <p>Calendar is opened correctly and meetings are scheduled successfully!</p>
+        </result>
+        <example id="example_lkg_fcq_5pb">
+            <p>You can use this function  when you want   to observe your scheduled meetings through
+                your calendar.</p>
+        </example>
+    </taskbody>
+    <related-links>
+        <link
+            href="https://guides.downstate.edu/c.php?g=654922&amp;p=4870541#:~:text=To%20display%20a%20quick%20view,side%20of%20the%20Home%20Screen."
+            format="php" scope="external"/>
+        <!--Here you can learn more about   how to observe your calendar in Outlook.-->
+    </related-links>
+</task>

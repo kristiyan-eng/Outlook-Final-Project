@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map collection-type="sequence">
+    <title>Outlook </title>
+    <topichead navtitle="Information for Microsoft Outlook">
+        <topicref href="what_is_outlook.dita"/>
+    </topichead>
+    <topichead navtitle="Communication via email">
+        <topicref href="how_to_reply_to_an_email_in_outlook.dita"/>
+        <topicref href="how_to_write_a_email_in_outlook.dita"/>
+    </topichead>
+    <topichead navtitle="Meeting creation and obesrvation">
+        <topicref href="how_to_observe_your_calendar_in_outlook.dita"/>
+        <topicref href="how_to_schedule_a_meeting_in_outlook.dita"/>
+    </topichead>
+    <topichead navtitle="Online signature">
+        <topicref href="how_to_create_your_signature_in_outlook.dita"/>
+    </topichead>
+</map>

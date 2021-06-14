@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_outlook">
+    <title>What is Microsoft Outlook.</title>
+    <conbody>
+        <p>Microsoft Outlook is a personal information manager software system from Microsoft,
+            available as a part of the Microsoft Office suite. Though primarily an email client,
+            Outlook also includes such functions as replying to an email, writing an email,
+            observing your calendar and your scheduled meetings, scheduling meetings, creating your
+            online signature.</p>
+        <p><image href="../MICROSOFT%20OUTLOOK%20IMAGE.png" id="image_kfj_zwr_xpb"/></p>
+    </conbody>
+    <related-links>
+        <link href="https://en.wikipedia.org/wiki/Microsoft_Outlook" format="html" scope="external"/>
+        <!--Here you can learn more about Microsoft Outlook.-->
+    </related-links>
+</concept>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_write_a_email_in_outlook">
+    <title>How to write an email in Outlook.</title>
+    <shortdesc>In this task we will learn  how to write an email in Outlook.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_s1r_krq_xpb">
+            <p>You need to have installed Outlook on your machine.</p>
+        </prereq>
+        <context>
+            <p>This task can help you  to  write different emails to your co-workers, friends,
+                etc..</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Open Microsoft Outlook.</cmd>
+            </step>
+            <step>
+                <cmd>Press ''New Email'' option in home page.</cmd>
+            </step>
+            <step>
+                <cmd>Select the person to which you want to send the email.</cmd>
+            </step>
+            <step>
+                <cmd>Write down your email.</cmd>
+            </step>
+            <step>
+                <cmd>Press ''Send''.</cmd>
+            </step>
+        </steps>
+        <result id="result_fmj_gbq_5pb">
+            <p><image href="../How%20to%20write%20an%20email.png" id="image_o1m_hwr_xpb"/></p>
+            <p>All the fields are filled correctly and the email is sent successfully to the person
+                to which you want to send it!</p>
+        </result>
+        <example id="example_fyn_gbq_5pb">
+            <p>You can use this function when you want to send emails to your friends, co-workers,
+                etc..</p>
+        </example>
+    </taskbody>
+    <related-links>
+        <link
+            href="https://support.microsoft.com/en-us/office/create-and-send-email-in-outlook-19c32deb-08b6-4f90-a211-02bc5f77f360"
+            format="html" scope="external"/>
+    </related-links>
+    <!--Here you can learn more about  how to write an email in Outlook. -->
+</task>

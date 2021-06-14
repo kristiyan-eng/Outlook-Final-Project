@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_create_your_signature_in_outlook">
+    <title>How to create your online signature in Outlook.</title>
+    <shortdesc>In this task we will learn  how to create out online signature in
+        Outlook.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_ndg_xrq_xpb">
+            <p>You need to have installed Outlook on your machine.</p>
+        </prereq>
+        <context>
+            <p>This task can help you to be more recognizable for the other people, when you write
+                emails to them.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Open Microsoft Outlook.</cmd>
+            </step>
+            <step>
+                <cmd>Press ''File''.</cmd>
+            </step>
+            <step>
+                <cmd><image href="../File%20image.png" id="image_o3t_fvr_xpb"/></cmd>
+            </step>
+            <step>
+                <cmd>Press ''Options''.</cmd>
+            </step>
+            <step>
+                <cmd>Select ''Mail'', and press ''Signatures'' button.</cmd>
+            </step>
+            <step>
+                <cmd><image href="../Mail%20and%20signature%20image.png" id="image_c5z_4vr_xpb"
+                    /></cmd>
+            </step>
+            <step>
+                <cmd>Write down your signature in ''Edit Signature'' tab and press ''Ok''.</cmd>
+            </step>
+        </steps>
+        <result id="result_uq4_b2q_5pb">
+            <p>The online signature that you created is created succsessfully and when you go to
+                write an email to someone, the online signature is visualised corectly! </p>
+            <p><image href="../online%20signatute.png" id="image_cqx_wwr_xpb"/></p>
+        </result>
+        <example id="example_lyl_c2q_5pb">
+            <p>You can create your online signatute in Outlook when you want to be more recognizable
+                for the other people.</p>
+        </example>
+    </taskbody>
+    <related-links>
+        <link
+            href="https://support.microsoft.com/en-us/office/create-and-add-an-email-signature-in-outlook-on-the-web-5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3"
+            format="html" scope="external"/>
+        <!--Here you can learn more about  how to create your online signature in Outlook.-->
+    </related-links>
+</task>
